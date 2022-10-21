@@ -23,4 +23,4 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen nce neyi de
 [MIT](https://choosealicense.com/licenses/mit/)
 
 
-[Patika.dev](https://www.patika.dev/tr)
+[Patika.dev](https://app.patika.dev/ftbs)
